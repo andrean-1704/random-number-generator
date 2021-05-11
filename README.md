@@ -6,5 +6,7 @@ simply run with typing "./random-number-generator.sh"
 
 or type "bash random-number-generator.sh"
 
+![](test.gif)
+
 # note
 i suggested you use linux ubuntu to run this script
